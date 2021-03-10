@@ -12,6 +12,7 @@
  * Author: Richard Clark - http://richclarkdesign.com
  * Twitter: @rich_clark
  */
+ @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
 html,
 body,
 div,
@@ -535,7 +536,7 @@ select {
 /* Base */
 html,
 body {
-  font-family: "Droid Serif", Georgia, "Times New Roman", Times, serif;
+  font-family: 'Hind Siliguri', sans-serif;
   color: #666666;
   font-size: 14px;
   line-height: 20px !important;
